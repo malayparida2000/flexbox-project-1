@@ -1,0 +1,40 @@
+#main-header #main-nav a {
+  font-size: 15px;
+  padding: 10px 15px;
+}
+#main-header #top-bar {
+  height: 100px;
+  flex-direction: column;
+}
+#about {
+  flex-direction: column;
+}
+#looking-for {
+  flex-direction: column;
+}
+.image-row {
+  flex-direction: column;
+}
+#blog {
+  flex-direction: column;
+}
+#team .members {
+  flex-direction: column;
+}
+#contact {
+  flex-direction: column;
+}
+.form h3 {
+  margin-top: 30px;
+}
+.form .form-element {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 20px;
+}
+.form .submit {
+  display: block;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 20px;
+}
